@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Website</title>  
+ 
+        <!-- import the webpage's stylesheet goes here -->
+        <link rel="stylesheet" href="css/style.css">    
+    </head>
+    
+    <body>
+        <div class="grid-container">
+
+        <div class="header">
+			<div class="header-image"><img src="images/Roman Brittania Header Words.png" alt="Logo" class="center"></div>
+			<div class="header-background"></div>
+					
+		</div>
+				
+            
+            <div class="nav">
+				<ul>
+					<li><a href="index.html">Home</a>
+					</li>
+					<li><a href="">Pages</a>
+						<ul>
+							<li><a href="page1.html">Images</a></li>
+							<li><a href="page2.html">Happy</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>				
+            <div class="content"> <!-- This contains the text -->
+
+                <div class="scroll-area">
+                    <h1>Information</h1>
+					
+						<hr></hr>
+						<p>National Parks</p>
+						
+						<p>Tongariro was New Zealand's first national park. The mountain peaks of Tongariro, Ngauruhoe and Ruapehu were a gift from Ngati Tuwharetoa in 1887. This was 15 years after the world's first national park, Yellowstone was created in the United States.
+						National parks are places set aside to protect natural landscapes and native plants and animals forever. They are really big 10,000 hectares or more. Protection comes first but they are also places for people to enjoy. Go visit some of them (just don't damage them). We also have underwater national parks - they are called marine reserves!
+						</p>
+
+						<hr></hr>
+						<p>Forest and Bird Youth - Nga Mahuri Tiaki</p>
+						
+						<p>Forest & Bird Youth is a nationwide network of young people (aged 14-25) who are protecting and restoring Aotearoa's wildlife and wild places. It is for Youth, by Youth that means that it is the young people leading the network, running the activities and projects, talking to each other directly, and making decisions. They do this with the support of our awesome Youth Network Support Coordinator based at the National Office.
+						By harnessing their passion to create change, they are inspiring and involving young people to protect planet Earth and do their part to reverse the crisis facing nature in New Zealand. From organising tree plantings, trapping events, and beach clean ups, to creating social media campaigns, and writing to politicians on key issues they care about, Forest & Bird Youth is making a difference.
+						</p>
+						<hr></hr>
+						<p>
+						How KCC gets you get ready for the transition
+						<p>Step 1: When you have turned 11 years old, we will send you a digital copy of Forest & Bird magazine for you to read on top of your printed Wild Things magazine. This will give you even more of an idea of what is happening in the wider Society.
+						Step 2: We are looking at ways to get older KCCers doing more child-led activities and projects, and doing stuff with Youth. Send us your ideas, and watch this space!
+						Step 2: Once you turn 14 years old, you are eligible to join Forest & Bird Youth. We'll get in touch to offer you a 1 year complimentary Youth membership. Once the transition happens, the Forest & Bird Youth team will be in touch to get you connected with the network.
+						</p>                      
+			<button onclick="topFunction()" id="myBtn" title="Go to top">ㅤ↑ㅤ</button>
+        
+			</div>
+        </div>
+        
+        <div class="footer">
+			<p> Copyright © Timothy Marshall 2024, all rights reserved. </p>
+		</div>
+        </div>
+		
+		<!--Import the back to top button JavaScript goes here -->
+		<script type="text/javascript" src="js/backtotop.js"></script>
+    </body>
+</html>
